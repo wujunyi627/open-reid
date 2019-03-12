@@ -8,7 +8,7 @@ state-of-the-art results.
 ## Installation
 
 Install [PyTorch](http://pytorch.org/) (version >= 0.2.0). Although we support
-both python2 and python3, we recommend python3 for better performance.
+both python2 and python3, we recommend python3 for better performance.（The code can support torch version>=0.4.0,the "Cysu/open-reid" support torch version <0.4.0)
 
 ```shell
 git clone https://github.com/Cysu/open-reid.git
